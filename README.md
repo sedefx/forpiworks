@@ -7,7 +7,7 @@
 ### Let's examine the details of this interface.
 ___
 
-#### To add a new user, click the "+ New User" button at the top left of the page and enter the required data for the new user in the newly opened window. Within the scope of this information, the user's username, Display Name, phone, email and user roles information should be selected.
+#### To add a new user, click the "+New User" button at the top left of the page and enter the required data for the new user in the newly opened window. Within the scope of this information, the user's username, Display Name, phone, email and user roles information should be selected.
 
 #### Within these options, 
  - Only integer value assignment should be made to the phone part.
@@ -21,4 +21,4 @@ ___
 - alphabetically or reverse alphabetical for user name, 
 - alphabetical or reverse alphabetic for mail,
 - alphabetical or reverse alphabetic for enabled. 
-#### When the Hide Disable User section next to the +New User button section is checked, the users that are not enabled will be hidden.
+#### When the Hide Disable User section next to the "+New User" button section is checked, the users that are not enabled will be hidden.
